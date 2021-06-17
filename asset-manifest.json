@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Project-Crud/static/css/main.5d6b07b6.chunk.css",
+    "main.js": "/Project-Crud/static/js/main.44470ec9.chunk.js",
+    "main.js.map": "/Project-Crud/static/js/main.44470ec9.chunk.js.map",
+    "runtime-main.js": "/Project-Crud/static/js/runtime-main.01a94f3c.js",
+    "runtime-main.js.map": "/Project-Crud/static/js/runtime-main.01a94f3c.js.map",
+    "static/js/2.21b6cbb1.chunk.js": "/Project-Crud/static/js/2.21b6cbb1.chunk.js",
+    "static/js/2.21b6cbb1.chunk.js.map": "/Project-Crud/static/js/2.21b6cbb1.chunk.js.map",
+    "index.html": "/Project-Crud/index.html",
+    "precache-manifest.5969f966005ee0fa35e4d97a8a795eb0.js": "/Project-Crud/precache-manifest.5969f966005ee0fa35e4d97a8a795eb0.js",
+    "service-worker.js": "/Project-Crud/service-worker.js",
+    "static/css/main.5d6b07b6.chunk.css.map": "/Project-Crud/static/css/main.5d6b07b6.chunk.css.map",
+    "static/js/2.21b6cbb1.chunk.js.LICENSE.txt": "/Project-Crud/static/js/2.21b6cbb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01a94f3c.js",
+    "static/js/2.21b6cbb1.chunk.js",
+    "static/css/main.5d6b07b6.chunk.css",
+    "static/js/main.44470ec9.chunk.js"
+  ]
+}
